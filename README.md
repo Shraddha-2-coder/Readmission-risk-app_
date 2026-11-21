@@ -2,7 +2,7 @@ Hospital 30-Day Readmission Risk Stratification
 
 An industrial-style AI/ML project that estimates which discharged diabetic patients are at higher risk of being readmitted to hospital within 30 days, so a care team can prioritise follow-up calls.
 
-Live app: add your Streamlit link here
+Live app: https://readmission-risk-app-bgcmdmyymsw7dyjc3e6vdr.streamlit.app/
 
 Important: the data is synthetic
 
